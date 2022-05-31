@@ -58,6 +58,9 @@ void insertAfterNodex(Node*previous, int newValue) {
 
 }
 
+// see include<list> 
+// list<int >listdll; and so on...use algorithms  ok!
+
 int main()
 {
    Node* head = new Node();
